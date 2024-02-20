@@ -1,3 +1,19 @@
-# Titulo
+# PRÁCTICA 1
 
-esto es texto normal
+Esta es la primera práctica de Tecnicas de integración de código
+
+
+## Usage
+
+```python
+git clone
+
+```
+
+## Contributing
+
+Se cubrieron los 11 puntos de la práctica
+
+## License
+
+[ITESO](https://test/practica1)
