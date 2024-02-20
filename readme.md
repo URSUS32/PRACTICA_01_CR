@@ -6,7 +6,7 @@ Esta es la primera práctica de Tecnicas de integración de código
 ## Usage
 
 ```python
-git clone
+git clone https://github.com/URSUS32/PRACTICA_01_CR.git
 
 ```
 
